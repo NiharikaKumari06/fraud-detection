@@ -1,0 +1,5 @@
+DB_NAME = "fraud_detection"
+USER = "postgres"
+PASSWORD = "root"
+HOST = "localhost"
+PORT = "5432"
